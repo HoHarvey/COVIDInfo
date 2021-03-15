@@ -14,9 +14,9 @@ YouTube URL: https://youtu.be/w1UFHkW3Q_o
 ![image](https://user-images.githubusercontent.com/63257951/111091973-0500b900-850b-11eb-9a0c-152e85f2e9f8.png)
 
 New desirable functionlities
--
--
--
--
--
+- GPS-based Contact Tracing
+- Sending COVID-19 notifications to computer
+- Live updates for number of vaccines available in your area
+- Information about what to do after you are vaccinated
+- Schedule on when everyone will be vaccinated
 
